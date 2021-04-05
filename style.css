@@ -39,6 +39,13 @@ body {
 .header-email {
   padding-left: 30px;
   background-image: url("img/icon-email-header.svg");
+  background-size: 25px;
+}
+
+.header-vk {
+  padding-left: 30px;
+  background-image: url("img/icon-vklogo-header.svg");
+  background-size: 20px;
 }
 
 .header-phone {
