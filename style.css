@@ -123,6 +123,10 @@ body {
   background-position: left;
 }
 
+.skill-meter {
+  width: 928px;
+}
+
 .skill-html {
   background-image: url("img/icon-html.svg");
 }
@@ -146,12 +150,12 @@ body {
   border-radius: 8px;
 }
 
-.level div {
+/* .level div {
   margin: 1px;
   height: 12px;
   background-color: #288be6;
   border-radius: 6px;
-}
+} */
 
 .portfolio {
   margin: 0 0 120px;
