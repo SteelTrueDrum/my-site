@@ -77,8 +77,6 @@ body {
   font-weight: 400;
 }
 
-
-
 .hero-image p {
   margin: 0;
   font-size: 32px;
@@ -216,35 +214,4 @@ body {
 .footer-phone {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
-}
-
-.butplace {
-  text-align: center;
-  margin: auto;
-  height: 200px;
-  margin-top: 30px;
-}
-.butt {
-  border: 2px solid rgb(14, 82, 0);
-  padding: 10px;
-  width: 300px;
-  height: 200px;
-  color: white;
-  background:green;
-  box-shadow: 2px 2px 2px black;
-  text-decoration: none;
-}
-
-.butt:hover {
-  border: 4px solid rgb(0, 102, 51);
-  background: rgb(0, 238, 119);
-  padding: 8px;
-  cursor: pointer;
-  transition-duration: 500ms;
-}
-
-.butt:active {
-  border: 4px solid green;
-  background: linear-gradient(green black);
-  transition-duration: 500ms;
 }
